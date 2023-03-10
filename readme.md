@@ -20,8 +20,8 @@ https://www.figma.com/file/ja6QtJ9gv2JuxSDIAClL1O/Welbex?node-id=0%3A1
 
 [Хостинг сайта](https://amocrm-test-task.web.app)
 
-## Задание 2
-Запус 2 задания
+## Запус 2 задания
+
 ```
     cd .\2 task\
 ```
