@@ -21,6 +21,7 @@ const AppWrapper = styled.div`
   padding-top: 46px;
   padding-bottom: 20px;
   position: relative;
+  overflow: hidden;
   @media screen and (min-width: 320px) and (max-width: 425px) {
     min-width: 320px;
     max-width: 425px;
